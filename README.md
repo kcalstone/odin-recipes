@@ -1,2 +1,2 @@
 # odin-recipes
-html test of recipes page odin project
+This is an HTML recipe page containing three pages and recipe files--one each for risotto, fried rice, and chicken soup. Skills include ordered and unordered lists, inserting images, headings, and more. The biggest challenge for me was correctly giving the file paths for photos and the page links. The next time I do one of these projects, I will track my path as I go so I don't have to step back and figure it out later.
